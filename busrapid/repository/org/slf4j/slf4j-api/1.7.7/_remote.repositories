@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+slf4j-api-1.7.7-sources.jar>jeesite-repos=
+slf4j-api-1.7.7.jar>=
+slf4j-api-1.7.7.pom>jeesite-repos=
+slf4j-api-1.7.7.jar>jeesite-repos=

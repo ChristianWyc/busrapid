@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+aspectjweaver-1.7.4-sources.jar>jeesite-repos=
+aspectjweaver-1.7.4.pom>jeesite-repos=
+aspectjweaver-1.7.4.jar>=
+aspectjweaver-1.7.4.jar>jeesite-repos=

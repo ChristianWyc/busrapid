@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+mysql-connector-java-5.1.30.pom>jeesite-repos=
+mysql-connector-java-5.1.30.jar>jeesite-repos=
+mysql-connector-java-5.1.30.jar>=
+mysql-connector-java-5.1.30-sources.jar>jeesite-repos=

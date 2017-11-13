@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+mybatis-3.2.8-sources.jar>jeesite-repos=
+mybatis-3.2.8.jar>=
+mybatis-3.2.8.pom>jeesite-repos=
+mybatis-3.2.8.jar>jeesite-repos=

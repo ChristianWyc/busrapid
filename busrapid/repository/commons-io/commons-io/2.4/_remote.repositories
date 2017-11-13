@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+commons-io-2.4.pom>jeesite-repos=
+commons-io-2.4.jar>jeesite-repos=
+commons-io-2.4.jar>=
+commons-io-2.4-sources.jar>jeesite-repos=

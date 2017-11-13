@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:24:10 CST 2017
+maven-site-plugin-3.3.jar>jeesite-repos=
+maven-site-plugin-3.3.pom>central=
+maven-site-plugin-3.3.jar>central=

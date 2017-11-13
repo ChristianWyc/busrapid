@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+poi-3.9.jar>=
+poi-3.9-sources.jar>jeesite-repos=
+poi-3.9.pom>jeesite-repos=
+poi-3.9.jar>jeesite-repos=

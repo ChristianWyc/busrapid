@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:24:08 CST 2017
+maven-deploy-plugin-2.7.jar>central=
+maven-deploy-plugin-2.7.jar>jeesite-repos=
+maven-deploy-plugin-2.7.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+joda-time-2.6.pom>jeesite-repos=
+joda-time-2.6.jar>jeesite-repos=
+joda-time-2.6-sources.jar>jeesite-repos=
+joda-time-2.6.jar>=

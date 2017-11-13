@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+ehcache-core-2.6.11.jar>=
+ehcache-core-2.6.11.pom>jeesite-repos=
+ehcache-core-2.6.11.jar>jeesite-repos=
+ehcache-core-2.6.11-sources.jar>jeesite-repos=

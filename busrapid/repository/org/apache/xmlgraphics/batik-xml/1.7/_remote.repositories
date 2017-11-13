@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+batik-xml-1.7-sources.jar>jeesite-repos=
+batik-xml-1.7.jar>=
+batik-xml-1.7.pom>jeesite-repos=
+batik-xml-1.7.jar>jeesite-repos=

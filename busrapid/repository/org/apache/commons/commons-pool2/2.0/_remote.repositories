@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+commons-pool2-2.0-sources.jar>jeesite-repos=
+commons-pool2-2.0.jar>=
+commons-pool2-2.0.pom>jeesite-repos=
+commons-pool2-2.0.jar>jeesite-repos=

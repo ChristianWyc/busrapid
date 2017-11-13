@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+xpp3_min-1.1.4c.jar>jeesite-repos=
+xpp3_min-1.1.4c.jar>=
+xpp3_min-1.1.4c-sources.jar>jeesite-repos=
+xpp3_min-1.1.4c.pom>jeesite-repos=

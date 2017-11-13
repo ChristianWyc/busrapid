@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 09 09:08:28 CST 2017
+groovy-all-2.4.5.jar>jeesite-repos=
+groovy-all-2.4.5.jar>=
+groovy-all-2.4.5.pom>jeesite-repos=
+groovy-all-2.4.5-sources.jar>jeesite-repos=
