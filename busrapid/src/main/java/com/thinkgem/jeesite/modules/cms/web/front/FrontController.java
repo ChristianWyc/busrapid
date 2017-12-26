@@ -39,8 +39,8 @@ import com.thinkgem.jeesite.modules.cms.utils.CmsUtils;
 
 /**
  * 网站Controller
- * @author ThinkGem
- * @version 2013-5-29
+ * @author Wyc令狐冲
+ * @version 2017-12-22
  */
 @Controller
 @RequestMapping(value = "${frontPath}")
